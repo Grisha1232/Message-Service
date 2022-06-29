@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y5I2ccn/4yZrZQ1IgoadBvMkNvEV2nn64OUAD/VT6aCwwL9eWRm3JzGCENh9TUhlLPa1YhqsDNCP6gyZ4sVPgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selez\\Desktop\\ВШЭ\\PeerGrade\\Сервис сообщений\\MessageService\\MessageService\\MessageService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\selez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\selez\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\selez\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\selez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\selez\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
